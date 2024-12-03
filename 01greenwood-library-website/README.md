@@ -1,6 +1,6 @@
-##THIS IS THE README FOR CAPSTONE PROJECT: ENHANCING A COMMUNITY LIBRARY WEBSITE
+## THIS IS THE README FOR CAPSTONE PROJECT: ENHANCING A COMMUNITY LIBRARY WEBSITE
 -
-##OBJECTIVES
+## OBJECTIVES
 - Pratice cloning a repository and working with branches in Git
 -Gain experience in staging, committing, and pushing changes from both developers
 -Create pull request and merge them after resolving any potential conflicts
